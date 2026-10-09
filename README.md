@@ -28,3 +28,8 @@ Built as a course-based learning project to practice Python OOP and game develop
 ## Technology
 - Python
 - Turtle graphics
+
+## Screenshot
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/28568104-1d44-4d7b-a524-e0bceaf49d16" />
+
